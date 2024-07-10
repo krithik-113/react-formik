@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "img": "https://m.media-amazon.com/images/I/61M74Vmgg+L._SY466_.jpg",
+      "title": "Computer Science & IT",
+      "ISBN": 9326193446,
+      "author": "Surabhi Mitra",
+      "PublishDate": "23 April 2022",
+      "bio":"The present edition of the “Handbook” series has been designed to work as a quick revision aid for the students",
+      "DOB":"November 21, 1983"
+    },
+    {
+      "id": 2,
+      "img": "https://m.media-amazon.com/images/I/41FY+KtqdpL._SY445_SX342_.jpg",
+      "title": "H/b Computer Science",
+      "ISBN": 9350944308,
+      "author": "Arihant Experts",
+      "PublishDate": "1 January 2013",
+      "bio":"Arihant Publications publishes some of the Finest Textbooks, Study Guides, Solved Paper and Practice Sets for Secondary and Higher Secondary Exams",
+      "DOB":"March 30, 2007"
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/I/61w5eUdyIsL._SY466_.jpg",
+      "title": "Node.js, Express & MongoDB Development",
+      "ISBN": 9811480281,
+      "author": "Greg Lim",
+      "PublishDate": "1 September 2020",
+      "bio":"Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing.",
+      "DOB":"November 21, 1983"
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/I/51fJDInYIFL._SY466_.jpg",
+      "title": "MERN Stack Development",
+      "ISBN": 9811815526,
+      "author": "Greg Lim",
+      "PublishDate": "1 July 2021",
+      "bio": "Greg Lim is a technologist and author of several programming books. Greg has many years in teaching programming in tertiary institutions and he places special emphasis on learning by doing.",
+      "DOB":"November 21, 1983"
+    }
+  ]
+}
