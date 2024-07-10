@@ -13,7 +13,7 @@ function App() {
   data = JSON.parse(data)
   const [userID, setUserID] = useState(data || {})
   const [books, setBooks] = useState([])
-  const API_URL = `${process.env.PUBLIC_URL}/db.json`
+  const API_URL = "https://react-netlify-formik.netlify.app/db.json";
   useEffect(() => {
     axios.get(API_URL).then((response) => setBooks(response.data.books))
       .catch((err) => console.log(err))
